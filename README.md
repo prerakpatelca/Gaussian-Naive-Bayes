@@ -5,4 +5,5 @@ This is a python program where we are loading the dataset using sklearn dataset 
 
 Source for the data set : http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
+# Output
 ![alt text](https://github.com/prerakpatelca/Gaussian-Naive-Bayes/blob/master/Screen%20Shot%202020-12-28%20at%204.29.11%20PM.png)
